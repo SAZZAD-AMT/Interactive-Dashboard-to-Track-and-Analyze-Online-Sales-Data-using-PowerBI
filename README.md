@@ -7,6 +7,6 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 
 <div align="center">
-  <img src="1.png" >
-  <img src="2.png" >
+  <img src="img/1.png" >
+  <img src="img/2.png" >
 </div>
